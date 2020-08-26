@@ -1,0 +1,7 @@
+button, canvas {
+    margin: 1rem auto;
+    display: block;
+}
+canvas {
+    border: 2px black solid;
+}
